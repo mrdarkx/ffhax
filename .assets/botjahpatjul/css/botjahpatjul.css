@@ -1,0 +1,106 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+    background: #eceff6;
+}
+
+.bangpatjul {
+    width: 500px;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    background: #3b5998;
+    padding: 10px 0;
+}
+
+.img-logo {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.isi {
+    width: 80%;
+    display: block;
+    margin: 30px auto;
+}
+
+.img-isi {
+    width: 60px;
+    height: 60px;
+    display: block;
+    margin: 5px auto;
+}
+
+.isi span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    margin: 15px auto;
+    color: rgb(168, 168, 168);
+    font-size: 17px;
+}
+
+.input {
+    width: 100%;
+    display: block;
+    margin: 20px auto;
+}
+
+.botjahpatjul {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.hiyahiya {
+    width: 90%;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+    padding: 15px 10px;
+    border: none;
+    border: 2px solid rgb(235, 235, 235);
+    border-radius: 3px;
+    background: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    color: #000;
+    outline: none;
+}
+
+.hiyahiya::placeholder {
+    color: rgba(0,0,0, 0.4);
+}
+
+.atas {
+    border-bottom: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.bawah {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.btn-fb {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 96%;
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    border: 1px solid #3577e5;
+    border-radius: 4px;
+    background: #3577e5;
+    color: #fff;
+    font-size: 1em;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+}
